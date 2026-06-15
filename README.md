@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard%20SS.png)
 # Superstore-sales-dashboard
 Interactive Excel dashboard analyzing $2.3M in sales data across 4 regions, 3 categories, and 3 customer segments using Microsoft Excel.
 
